@@ -1,5 +1,5 @@
 # 💫 About Me:
-### I'm Junior Programmer From Indonesia
+- 🧑‍💻 I'm Junior Programmer From Indonesia
 - 🌱 I’m currently learning Artificial intelligence  
 
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
