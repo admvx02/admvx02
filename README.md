@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm Junior Frontend Developer From Indonesia
-
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 
 ## 🌐 Socials:
