@@ -20,9 +20,8 @@ I'm Junior Frontend Developer From Indonesia
 [![](https://visitcount.itsvg.in/api?id=admvx02&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <a href=#><img src="contributions.svg"></a>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=admvx02&&style=flat-square" align="center" />
+</div>  
 
 
