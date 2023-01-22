@@ -2,6 +2,7 @@
 - 🧑‍💻 I'm Junior Programmer From Indonesia
 - 🌱 I’m currently learning AI and IOT
 
+
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <div align="rigt">
 <img src="https://komarev.com/ghpvc/?username=admvx02&&style=flat-square" align="rigt" />
