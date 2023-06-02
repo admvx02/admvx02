@@ -1,5 +1,5 @@
 ## 💫 About Me:
-- 🧑‍💻 I'm Junior Software Engineer From Indonesia
+- 🧑‍💻 I'm Software Engineer From Indonesia
 - 🌱 I’m currently learning AI and Web Technology
 
 
