@@ -1,6 +1,6 @@
 ## 💫 About Me:
 - 🧑‍💻 I'm Software Engineer From Indonesia
-- 🌱 I’m currently learning AI and Web Technology
+- 🌱 I’m currently learning AI, Web Technology adn Quality Assurance
 
 
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
