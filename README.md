@@ -5,8 +5,8 @@
 
 <img src="https://i.pinimg.com/originals/2e/fc/4a/2efc4abf026166b36a01d64a5956284f.gif">
 <div align="rigt">
-<img src="https://komarev.com/ghpvc/?username=admvx02&&style=flat-square" align="rigt" />
-</div>  
+<!-- <img src="https://komarev.com/ghpvc/?username=admvx02&&style=flat-square" align="rigt" />
+</div>   -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/admvx_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adamromadhon)
